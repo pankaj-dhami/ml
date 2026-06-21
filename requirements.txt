@@ -6,3 +6,7 @@ torch
 accelerate
 pillow
 opencv-python
+numpy
+timm
+ultralytics
+supervision
